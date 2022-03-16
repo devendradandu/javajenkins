@@ -7,7 +7,4 @@ this is for git hooks  of mahalogin
 
 4th commit
 
-6th commite
-7th commit
-8th commit
-9th commit
+ 10th commit
